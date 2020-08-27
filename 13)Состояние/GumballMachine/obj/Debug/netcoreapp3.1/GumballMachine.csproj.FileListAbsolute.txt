@@ -1,0 +1,13 @@
+C:\Users\Данил\Desktop\TravelLine\GumballMachine\GumballMachine\bin\Debug\netcoreapp3.1\GumballMachine.exe
+C:\Users\Данил\Desktop\TravelLine\GumballMachine\GumballMachine\bin\Debug\netcoreapp3.1\GumballMachine.deps.json
+C:\Users\Данил\Desktop\TravelLine\GumballMachine\GumballMachine\bin\Debug\netcoreapp3.1\GumballMachine.runtimeconfig.json
+C:\Users\Данил\Desktop\TravelLine\GumballMachine\GumballMachine\bin\Debug\netcoreapp3.1\GumballMachine.runtimeconfig.dev.json
+C:\Users\Данил\Desktop\TravelLine\GumballMachine\GumballMachine\bin\Debug\netcoreapp3.1\GumballMachine.dll
+C:\Users\Данил\Desktop\TravelLine\GumballMachine\GumballMachine\bin\Debug\netcoreapp3.1\GumballMachine.pdb
+C:\Users\Данил\Desktop\TravelLine\GumballMachine\GumballMachine\obj\Debug\netcoreapp3.1\GumballMachine.csprojAssemblyReference.cache
+C:\Users\Данил\Desktop\TravelLine\GumballMachine\GumballMachine\obj\Debug\netcoreapp3.1\GumballMachine.AssemblyInfoInputs.cache
+C:\Users\Данил\Desktop\TravelLine\GumballMachine\GumballMachine\obj\Debug\netcoreapp3.1\GumballMachine.AssemblyInfo.cs
+C:\Users\Данил\Desktop\TravelLine\GumballMachine\GumballMachine\obj\Debug\netcoreapp3.1\GumballMachine.csproj.CoreCompileInputs.cache
+C:\Users\Данил\Desktop\TravelLine\GumballMachine\GumballMachine\obj\Debug\netcoreapp3.1\GumballMachine.dll
+C:\Users\Данил\Desktop\TravelLine\GumballMachine\GumballMachine\obj\Debug\netcoreapp3.1\GumballMachine.pdb
+C:\Users\Данил\Desktop\TravelLine\GumballMachine\GumballMachine\obj\Debug\netcoreapp3.1\GumballMachine.genruntimeconfig.cache

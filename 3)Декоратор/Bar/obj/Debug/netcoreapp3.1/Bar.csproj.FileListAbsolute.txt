@@ -1,0 +1,13 @@
+C:\Users\Данил\Desktop\TravelLine\Bar\Bar\bin\Debug\netcoreapp3.1\Bar.exe
+C:\Users\Данил\Desktop\TravelLine\Bar\Bar\bin\Debug\netcoreapp3.1\Bar.deps.json
+C:\Users\Данил\Desktop\TravelLine\Bar\Bar\bin\Debug\netcoreapp3.1\Bar.runtimeconfig.json
+C:\Users\Данил\Desktop\TravelLine\Bar\Bar\bin\Debug\netcoreapp3.1\Bar.runtimeconfig.dev.json
+C:\Users\Данил\Desktop\TravelLine\Bar\Bar\bin\Debug\netcoreapp3.1\Bar.dll
+C:\Users\Данил\Desktop\TravelLine\Bar\Bar\bin\Debug\netcoreapp3.1\Bar.pdb
+C:\Users\Данил\Desktop\TravelLine\Bar\Bar\obj\Debug\netcoreapp3.1\Bar.csprojAssemblyReference.cache
+C:\Users\Данил\Desktop\TravelLine\Bar\Bar\obj\Debug\netcoreapp3.1\Bar.AssemblyInfoInputs.cache
+C:\Users\Данил\Desktop\TravelLine\Bar\Bar\obj\Debug\netcoreapp3.1\Bar.AssemblyInfo.cs
+C:\Users\Данил\Desktop\TravelLine\Bar\Bar\obj\Debug\netcoreapp3.1\Bar.csproj.CoreCompileInputs.cache
+C:\Users\Данил\Desktop\TravelLine\Bar\Bar\obj\Debug\netcoreapp3.1\Bar.dll
+C:\Users\Данил\Desktop\TravelLine\Bar\Bar\obj\Debug\netcoreapp3.1\Bar.pdb
+C:\Users\Данил\Desktop\TravelLine\Bar\Bar\obj\Debug\netcoreapp3.1\Bar.genruntimeconfig.cache

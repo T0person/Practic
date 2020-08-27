@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="DinerMenuIterator.cs" />
+    <Compile Remove="Interfaces\IIterator.cs" />
+    <Compile Remove="Iterators\DinerMenuIterator.cs" />
+    <Compile Remove="Iterators\PancakeHouseMenuIterator.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Iterators\" />
+  </ItemGroup>
+
+</Project>

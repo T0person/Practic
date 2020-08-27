@@ -1,0 +1,13 @@
+C:\Users\Данил\source\repos\FastDiner\FastDiner\bin\Debug\netcoreapp3.1\FastDiner.exe
+C:\Users\Данил\source\repos\FastDiner\FastDiner\bin\Debug\netcoreapp3.1\FastDiner.deps.json
+C:\Users\Данил\source\repos\FastDiner\FastDiner\bin\Debug\netcoreapp3.1\FastDiner.runtimeconfig.json
+C:\Users\Данил\source\repos\FastDiner\FastDiner\bin\Debug\netcoreapp3.1\FastDiner.runtimeconfig.dev.json
+C:\Users\Данил\source\repos\FastDiner\FastDiner\bin\Debug\netcoreapp3.1\FastDiner.dll
+C:\Users\Данил\source\repos\FastDiner\FastDiner\bin\Debug\netcoreapp3.1\FastDiner.pdb
+C:\Users\Данил\source\repos\FastDiner\FastDiner\obj\Debug\netcoreapp3.1\FastDiner.csprojAssemblyReference.cache
+C:\Users\Данил\source\repos\FastDiner\FastDiner\obj\Debug\netcoreapp3.1\FastDiner.AssemblyInfoInputs.cache
+C:\Users\Данил\source\repos\FastDiner\FastDiner\obj\Debug\netcoreapp3.1\FastDiner.AssemblyInfo.cs
+C:\Users\Данил\source\repos\FastDiner\FastDiner\obj\Debug\netcoreapp3.1\FastDiner.csproj.CoreCompileInputs.cache
+C:\Users\Данил\source\repos\FastDiner\FastDiner\obj\Debug\netcoreapp3.1\FastDiner.dll
+C:\Users\Данил\source\repos\FastDiner\FastDiner\obj\Debug\netcoreapp3.1\FastDiner.pdb
+C:\Users\Данил\source\repos\FastDiner\FastDiner\obj\Debug\netcoreapp3.1\FastDiner.genruntimeconfig.cache

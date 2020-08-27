@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Chicago\**" />
+    <Compile Remove="NY\**" />
+    <EmbeddedResource Remove="Chicago\**" />
+    <EmbeddedResource Remove="NY\**" />
+    <None Remove="Chicago\**" />
+    <None Remove="NY\**" />
+  </ItemGroup>
+
+</Project>

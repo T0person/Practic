@@ -1,0 +1,13 @@
+C:\Users\Данил\Desktop\TravelLine\Loner\Loner\bin\Debug\netcoreapp3.1\Loner.exe
+C:\Users\Данил\Desktop\TravelLine\Loner\Loner\bin\Debug\netcoreapp3.1\Loner.deps.json
+C:\Users\Данил\Desktop\TravelLine\Loner\Loner\bin\Debug\netcoreapp3.1\Loner.runtimeconfig.json
+C:\Users\Данил\Desktop\TravelLine\Loner\Loner\bin\Debug\netcoreapp3.1\Loner.runtimeconfig.dev.json
+C:\Users\Данил\Desktop\TravelLine\Loner\Loner\bin\Debug\netcoreapp3.1\Loner.dll
+C:\Users\Данил\Desktop\TravelLine\Loner\Loner\bin\Debug\netcoreapp3.1\Loner.pdb
+C:\Users\Данил\Desktop\TravelLine\Loner\Loner\obj\Debug\netcoreapp3.1\Loner.csprojAssemblyReference.cache
+C:\Users\Данил\Desktop\TravelLine\Loner\Loner\obj\Debug\netcoreapp3.1\Loner.AssemblyInfoInputs.cache
+C:\Users\Данил\Desktop\TravelLine\Loner\Loner\obj\Debug\netcoreapp3.1\Loner.AssemblyInfo.cs
+C:\Users\Данил\Desktop\TravelLine\Loner\Loner\obj\Debug\netcoreapp3.1\Loner.csproj.CoreCompileInputs.cache
+C:\Users\Данил\Desktop\TravelLine\Loner\Loner\obj\Debug\netcoreapp3.1\Loner.dll
+C:\Users\Данил\Desktop\TravelLine\Loner\Loner\obj\Debug\netcoreapp3.1\Loner.pdb
+C:\Users\Данил\Desktop\TravelLine\Loner\Loner\obj\Debug\netcoreapp3.1\Loner.genruntimeconfig.cache

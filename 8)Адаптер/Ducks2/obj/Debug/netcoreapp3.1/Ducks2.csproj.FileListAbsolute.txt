@@ -1,0 +1,13 @@
+C:\Users\Данил\Desktop\TravelLine\Ducks2\Ducks2\bin\Debug\netcoreapp3.1\Ducks2.exe
+C:\Users\Данил\Desktop\TravelLine\Ducks2\Ducks2\bin\Debug\netcoreapp3.1\Ducks2.deps.json
+C:\Users\Данил\Desktop\TravelLine\Ducks2\Ducks2\bin\Debug\netcoreapp3.1\Ducks2.runtimeconfig.json
+C:\Users\Данил\Desktop\TravelLine\Ducks2\Ducks2\bin\Debug\netcoreapp3.1\Ducks2.runtimeconfig.dev.json
+C:\Users\Данил\Desktop\TravelLine\Ducks2\Ducks2\bin\Debug\netcoreapp3.1\Ducks2.dll
+C:\Users\Данил\Desktop\TravelLine\Ducks2\Ducks2\bin\Debug\netcoreapp3.1\Ducks2.pdb
+C:\Users\Данил\Desktop\TravelLine\Ducks2\Ducks2\obj\Debug\netcoreapp3.1\Ducks2.csprojAssemblyReference.cache
+C:\Users\Данил\Desktop\TravelLine\Ducks2\Ducks2\obj\Debug\netcoreapp3.1\Ducks2.AssemblyInfoInputs.cache
+C:\Users\Данил\Desktop\TravelLine\Ducks2\Ducks2\obj\Debug\netcoreapp3.1\Ducks2.AssemblyInfo.cs
+C:\Users\Данил\Desktop\TravelLine\Ducks2\Ducks2\obj\Debug\netcoreapp3.1\Ducks2.csproj.CoreCompileInputs.cache
+C:\Users\Данил\Desktop\TravelLine\Ducks2\Ducks2\obj\Debug\netcoreapp3.1\Ducks2.dll
+C:\Users\Данил\Desktop\TravelLine\Ducks2\Ducks2\obj\Debug\netcoreapp3.1\Ducks2.pdb
+C:\Users\Данил\Desktop\TravelLine\Ducks2\Ducks2\obj\Debug\netcoreapp3.1\Ducks2.genruntimeconfig.cache

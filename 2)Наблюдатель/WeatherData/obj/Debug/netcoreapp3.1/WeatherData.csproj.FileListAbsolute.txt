@@ -1,0 +1,13 @@
+C:\Users\Данил\Desktop\TravelLine\WeatherData\WeatherData\bin\Debug\netcoreapp3.1\WeatherData.exe
+C:\Users\Данил\Desktop\TravelLine\WeatherData\WeatherData\bin\Debug\netcoreapp3.1\WeatherData.deps.json
+C:\Users\Данил\Desktop\TravelLine\WeatherData\WeatherData\bin\Debug\netcoreapp3.1\WeatherData.runtimeconfig.json
+C:\Users\Данил\Desktop\TravelLine\WeatherData\WeatherData\bin\Debug\netcoreapp3.1\WeatherData.runtimeconfig.dev.json
+C:\Users\Данил\Desktop\TravelLine\WeatherData\WeatherData\bin\Debug\netcoreapp3.1\WeatherData.dll
+C:\Users\Данил\Desktop\TravelLine\WeatherData\WeatherData\bin\Debug\netcoreapp3.1\WeatherData.pdb
+C:\Users\Данил\Desktop\TravelLine\WeatherData\WeatherData\obj\Debug\netcoreapp3.1\WeatherData.csprojAssemblyReference.cache
+C:\Users\Данил\Desktop\TravelLine\WeatherData\WeatherData\obj\Debug\netcoreapp3.1\WeatherData.AssemblyInfoInputs.cache
+C:\Users\Данил\Desktop\TravelLine\WeatherData\WeatherData\obj\Debug\netcoreapp3.1\WeatherData.AssemblyInfo.cs
+C:\Users\Данил\Desktop\TravelLine\WeatherData\WeatherData\obj\Debug\netcoreapp3.1\WeatherData.csproj.CoreCompileInputs.cache
+C:\Users\Данил\Desktop\TravelLine\WeatherData\WeatherData\obj\Debug\netcoreapp3.1\WeatherData.dll
+C:\Users\Данил\Desktop\TravelLine\WeatherData\WeatherData\obj\Debug\netcoreapp3.1\WeatherData.pdb
+C:\Users\Данил\Desktop\TravelLine\WeatherData\WeatherData\obj\Debug\netcoreapp3.1\WeatherData.genruntimeconfig.cache
